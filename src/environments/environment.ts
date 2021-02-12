@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  YOUTUBE_API_KEY: "AIzaSyDOgAnNokkunCwN2I7--3230NlZR1KcuUE",
+  YOUTUBE_API_KEY: "xxxxAPI_YOUR_KEYxxxxx",
   lYOUTUBE_API_URL: "https://www.googleapis.com/youtube/v3/search"
 };
 
